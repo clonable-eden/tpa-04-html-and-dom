@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/tim-hr/precourse-review-site#readme",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.22.1"
   }
 }
